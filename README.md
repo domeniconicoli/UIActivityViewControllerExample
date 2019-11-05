@@ -3,7 +3,6 @@ How UIActivityViewController handle text sharing, URLs, image, and more
 
 ## Introduction
 
-If you want to sharing content on your app, Apple in iOS 6 introduced the class UIActivityViewController. This class handle URL, text, image, video sharing and more in a simple way and with only few lines of code.
-Today in this article, we'll talk about how we can implement UIActivityViewController in our app and what we have to do to share our content.
+A QR Code is a 2D matrix barcode widely used as a way to transmit data. It’s mainly used for item identification, time tracking, and marketing. It consists of black squares in a square grid which can be read by an imaging device such as a smartphone.
 
-## Full article [HERE]()
+## Full article [HERE](https://levelup.gitconnected.com/how-to-create-a-qrcode-reader-in-swift-1b633d5ac95e)
