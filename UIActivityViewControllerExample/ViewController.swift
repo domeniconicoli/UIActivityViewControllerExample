@@ -19,9 +19,9 @@ class ViewController: UIViewController {
         var items = [Any]()
         
         if shareTypeSwitch.isOn {
-            items = [profileImageView.image]
+            items = [profileImageView.image!]
         } else {
-            items = [messageTextView.text]
+            items = [messageTextView.text!]
         }
         
         let ac = UIActivityViewController(activityItems: items, applicationActivities: nil)
